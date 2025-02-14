@@ -1,0 +1,123 @@
+{
+  "valeur": "",
+  "enfants": {
+    "b": {
+      "valeur": "b",
+      "enfants": {
+        "a": {
+          "valeur": "a",
+          "enfants": {
+            "n": {
+              "valeur": "n",
+              "enfants": {
+                "a": {
+                  "valeur": "a",
+                  "enfants": {
+                    "n": {
+                      "valeur": "n",
+                      "enfants": {
+                        "e": {
+                          "valeur": "e",
+                          "enfants": {
+                            "$": {
+                              "valeur": "$",
+                              "enfants": {}
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "a": {
+      "valeur": "a",
+      "enfants": {
+        "n": {
+          "valeur": "n",
+          "enfants": {
+            "a": {
+              "valeur": "a",
+              "enfants": {
+                "n": {
+                  "valeur": "n",
+                  "enfants": {
+                    "e": {
+                      "valeur": "e",
+                      "enfants": {
+                        "$": {
+                          "valeur": "$",
+                          "enfants": {}
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "e": {
+              "valeur": "e",
+              "enfants": {
+                "$": {
+                  "valeur": "$",
+                  "enfants": {}
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "n": {
+      "valeur": "n",
+      "enfants": {
+        "a": {
+          "valeur": "a",
+          "enfants": {
+            "n": {
+              "valeur": "n",
+              "enfants": {
+                "e": {
+                  "valeur": "e",
+                  "enfants": {
+                    "$": {
+                      "valeur": "$",
+                      "enfants": {}
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "e": {
+          "valeur": "e",
+          "enfants": {
+            "$": {
+              "valeur": "$",
+              "enfants": {}
+            }
+          }
+        }
+      }
+    },
+    "e": {
+      "valeur": "e",
+      "enfants": {
+        "$": {
+          "valeur": "$",
+          "enfants": {}
+        }
+      }
+    },
+    "$": {
+      "valeur": "$",
+      "enfants": {}
+    }
+  }
+}
