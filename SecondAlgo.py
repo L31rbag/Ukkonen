@@ -66,6 +66,17 @@ class ArbreSuffixes:
     def construire_arbre(self):
         for i in range(len(self.texte)):
             self.inserer_suffixe(self.texte[i:])
+
+    def contient_suffixe(self,suffixe):
+        noeud_c= self.racine
+        for cc in suffixe:
+            print(f"Recherche du caractère: {cc}")
+            if cc not in noeud_c.enfants:
+                print(f"Suffixe non trouvé à {cc}")
+                return False
+            noeud_c=noeud_c.enfants[cc]
+        return True
+
     
     def to_json(self):
         return json.dumps(self.racine.to_dict(), indent=2)
@@ -77,7 +88,20 @@ if __name__ == "__main__":
     texte_nettoye = nettoyer_texte(texte_brut)
     arbre = ArbreSuffixes(texte_nettoye)
     
+    
     with open('arbre_suffixes2.json', 'w', encoding='utf-8') as f:
         f.write(arbre.to_json())
     
     print("L'arbre des suffixes compressé a été généré et sauvegardé dans 'arbre_suffixes.json'.")
+
+
+
+    with open('arbre_suffixes2.json', 'r', encoding='utf-8') as f:
+        arbre_json = json.load(f)
+
+   
+    print(arbre.contient_suffixe("theprojectgutenbergliterary$"))
+
+    
+
+
