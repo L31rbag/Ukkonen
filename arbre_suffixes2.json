@@ -1,692 +1,368 @@
-{
-  "valeur": "",
-  "enfants": {
-    "t": {
-      "valeur": "t",
-      "enfants": {
-        "h": {
-          "valeur": "h",
-          "enfants": {
-            "i": {
-              "valeur": "iswebsiteincludesinformationaboutprojectgutenbergincludinghowtomakedonationstotheprojectgutenbergliterary$",
-              "enfants": {}
-            },
-            "e": {
-              "valeur": "eprojectgutenbergliterary$",
-              "enfants": {}
-            }
-          }
-        },
-        "e": {
-          "valeur": "e",
-          "enfants": {
-            "i": {
-              "valeur": "includesinformationaboutprojectgutenbergincludinghowtomakedonationstotheprojectgutenbergliterary$",
-              "enfants": {}
-            },
-            "n": {
-              "valeur": "nberg",
-              "enfants": {
-                "i": {
-                  "valeur": "includinghowtomakedonationstotheprojectgutenbergliterary$",
-                  "enfants": {}
-                },
-                "l": {
-                  "valeur": "literary$",
-                  "enfants": {}
-                }
-              }
-            },
-            "r": {
-              "valeur": "rary$",
-              "enfants": {}
-            }
-          }
-        },
-        "i": {
-          "valeur": "ion",
-          "enfants": {
-            "a": {
-              "valeur": "aboutprojectgutenbergincludinghowtomakedonationstotheprojectgutenbergliterary$",
-              "enfants": {}
-            },
-            "s": {
-              "valeur": "stotheprojectgutenbergliterary$",
-              "enfants": {}
-            }
-          }
-        },
-        "p": {
-          "valeur": "projectgutenbergincludinghowtomakedonationstotheprojectgutenbergliterary$",
-          "enfants": {}
-        },
-        "g": {
-          "valeur": "gutenberg",
-          "enfants": {
-            "i": {
-              "valeur": "includinghowtomakedonationstotheprojectgutenbergliterary$",
-              "enfants": {}
-            },
-            "l": {
-              "valeur": "literary$",
-              "enfants": {}
-            }
-          }
-        },
-        "o": {
-          "valeur": "o",
-          "enfants": {
-            "m": {
-              "valeur": "makedonationstotheprojectgutenbergliterary$",
-              "enfants": {}
-            },
-            "t": {
-              "valeur": "theprojectgutenbergliterary$",
-              "enfants": {}
-            }
-          }
-        }
-      }
-    },
-    "h": {
-      "valeur": "h",
-      "enfants": {
-        "i": {
-          "valeur": "iswebsiteincludesinformationaboutprojectgutenbergincludinghowtomakedonationstotheprojectgutenbergliterary$",
-          "enfants": {}
-        },
-        "o": {
-          "valeur": "owtomakedonationstotheprojectgutenbergliterary$",
-          "enfants": {}
-        },
-        "e": {
-          "valeur": "eprojectgutenbergliterary$",
-          "enfants": {}
-        }
-      }
-    },
-    "i": {
-      "valeur": "i",
-      "enfants": {
-        "s": {
-          "valeur": "swebsiteincludesinformationaboutprojectgutenbergincludinghowtomakedonationstotheprojectgutenbergliterary$",
-          "enfants": {}
-        },
-        "t": {
-          "valeur": "te",
-          "enfants": {
-            "i": {
-              "valeur": "includesinformationaboutprojectgutenbergincludinghowtomakedonationstotheprojectgutenbergliterary$",
-              "enfants": {}
-            },
-            "r": {
-              "valeur": "rary$",
-              "enfants": {}
-            }
-          }
-        },
-        "n": {
-          "valeur": "n",
-          "enfants": {
-            "c": {
-              "valeur": "clud",
-              "enfants": {
-                "e": {
-                  "valeur": "esinformationaboutprojectgutenbergincludinghowtomakedonationstotheprojectgutenbergliterary$",
-                  "enfants": {}
-                },
-                "i": {
-                  "valeur": "inghowtomakedonationstotheprojectgutenbergliterary$",
-                  "enfants": {}
-                }
-              }
-            },
-            "f": {
-              "valeur": "formationaboutprojectgutenbergincludinghowtomakedonationstotheprojectgutenbergliterary$",
-              "enfants": {}
-            },
-            "g": {
-              "valeur": "ghowtomakedonationstotheprojectgutenbergliterary$",
-              "enfants": {}
-            }
-          }
-        },
-        "o": {
-          "valeur": "on",
-          "enfants": {
-            "a": {
-              "valeur": "aboutprojectgutenbergincludinghowtomakedonationstotheprojectgutenbergliterary$",
-              "enfants": {}
-            },
-            "s": {
-              "valeur": "stotheprojectgutenbergliterary$",
-              "enfants": {}
-            }
-          }
-        }
-      }
-    },
-    "s": {
-      "valeur": "s",
-      "enfants": {
-        "w": {
-          "valeur": "websiteincludesinformationaboutprojectgutenbergincludinghowtomakedonationstotheprojectgutenbergliterary$",
-          "enfants": {}
-        },
-        "i": {
-          "valeur": "i",
-          "enfants": {
-            "t": {
-              "valeur": "teincludesinformationaboutprojectgutenbergincludinghowtomakedonationstotheprojectgutenbergliterary$",
-              "enfants": {}
-            },
-            "n": {
-              "valeur": "nformationaboutprojectgutenbergincludinghowtomakedonationstotheprojectgutenbergliterary$",
-              "enfants": {}
-            }
-          }
-        },
-        "t": {
-          "valeur": "totheprojectgutenbergliterary$",
-          "enfants": {}
-        }
-      }
-    },
-    "w": {
-      "valeur": "w",
-      "enfants": {
-        "e": {
-          "valeur": "ebsiteincludesinformationaboutprojectgutenbergincludinghowtomakedonationstotheprojectgutenbergliterary$",
-          "enfants": {}
-        },
-        "t": {
-          "valeur": "tomakedonationstotheprojectgutenbergliterary$",
-          "enfants": {}
-        }
-      }
-    },
-    "e": {
-      "valeur": "e",
-      "enfants": {
-        "b": {
-          "valeur": "bsiteincludesinformationaboutprojectgutenbergincludinghowtomakedonationstotheprojectgutenbergliterary$",
-          "enfants": {}
-        },
-        "i": {
-          "valeur": "includesinformationaboutprojectgutenbergincludinghowtomakedonationstotheprojectgutenbergliterary$",
-          "enfants": {}
-        },
-        "s": {
-          "valeur": "sinformationaboutprojectgutenbergincludinghowtomakedonationstotheprojectgutenbergliterary$",
-          "enfants": {}
-        },
-        "c": {
-          "valeur": "ctgutenberg",
-          "enfants": {
-            "i": {
-              "valeur": "includinghowtomakedonationstotheprojectgutenbergliterary$",
-              "enfants": {}
-            },
-            "l": {
-              "valeur": "literary$",
-              "enfants": {}
-            }
-          }
-        },
-        "n": {
-          "valeur": "nberg",
-          "enfants": {
-            "i": {
-              "valeur": "includinghowtomakedonationstotheprojectgutenbergliterary$",
-              "enfants": {}
-            },
-            "l": {
-              "valeur": "literary$",
-              "enfants": {}
-            }
-          }
-        },
-        "r": {
-          "valeur": "r",
-          "enfants": {
-            "g": {
-              "valeur": "g",
-              "enfants": {
-                "i": {
-                  "valeur": "includinghowtomakedonationstotheprojectgutenbergliterary$",
-                  "enfants": {}
-                },
-                "l": {
-                  "valeur": "literary$",
-                  "enfants": {}
-                }
-              }
-            },
-            "a": {
-              "valeur": "ary$",
-              "enfants": {}
-            }
-          }
-        },
-        "d": {
-          "valeur": "donationstotheprojectgutenbergliterary$",
-          "enfants": {}
-        },
-        "p": {
-          "valeur": "projectgutenbergliterary$",
-          "enfants": {}
-        }
-      }
-    },
-    "b": {
-      "valeur": "b",
-      "enfants": {
-        "s": {
-          "valeur": "siteincludesinformationaboutprojectgutenbergincludinghowtomakedonationstotheprojectgutenbergliterary$",
-          "enfants": {}
-        },
-        "o": {
-          "valeur": "outprojectgutenbergincludinghowtomakedonationstotheprojectgutenbergliterary$",
-          "enfants": {}
-        },
-        "e": {
-          "valeur": "erg",
-          "enfants": {
-            "i": {
-              "valeur": "includinghowtomakedonationstotheprojectgutenbergliterary$",
-              "enfants": {}
-            },
-            "l": {
-              "valeur": "literary$",
-              "enfants": {}
-            }
-          }
-        }
-      }
-    },
-    "n": {
-      "valeur": "n",
-      "enfants": {
-        "c": {
-          "valeur": "clud",
-          "enfants": {
-            "e": {
-              "valeur": "esinformationaboutprojectgutenbergincludinghowtomakedonationstotheprojectgutenbergliterary$",
-              "enfants": {}
-            },
-            "i": {
-              "valeur": "inghowtomakedonationstotheprojectgutenbergliterary$",
-              "enfants": {}
-            }
-          }
-        },
-        "f": {
-          "valeur": "formationaboutprojectgutenbergincludinghowtomakedonationstotheprojectgutenbergliterary$",
-          "enfants": {}
-        },
-        "a": {
-          "valeur": "a",
-          "enfants": {
-            "b": {
-              "valeur": "boutprojectgutenbergincludinghowtomakedonationstotheprojectgutenbergliterary$",
-              "enfants": {}
-            },
-            "t": {
-              "valeur": "tionstotheprojectgutenbergliterary$",
-              "enfants": {}
-            }
-          }
-        },
-        "b": {
-          "valeur": "berg",
-          "enfants": {
-            "i": {
-              "valeur": "includinghowtomakedonationstotheprojectgutenbergliterary$",
-              "enfants": {}
-            },
-            "l": {
-              "valeur": "literary$",
-              "enfants": {}
-            }
-          }
-        },
-        "g": {
-          "valeur": "ghowtomakedonationstotheprojectgutenbergliterary$",
-          "enfants": {}
-        },
-        "s": {
-          "valeur": "stotheprojectgutenbergliterary$",
-          "enfants": {}
-        }
-      }
-    },
-    "c": {
-      "valeur": "c",
-      "enfants": {
-        "l": {
-          "valeur": "lud",
-          "enfants": {
-            "e": {
-              "valeur": "esinformationaboutprojectgutenbergincludinghowtomakedonationstotheprojectgutenbergliterary$",
-              "enfants": {}
-            },
-            "i": {
-              "valeur": "inghowtomakedonationstotheprojectgutenbergliterary$",
-              "enfants": {}
-            }
-          }
-        },
-        "t": {
-          "valeur": "tgutenberg",
-          "enfants": {
-            "i": {
-              "valeur": "includinghowtomakedonationstotheprojectgutenbergliterary$",
-              "enfants": {}
-            },
-            "l": {
-              "valeur": "literary$",
-              "enfants": {}
-            }
-          }
-        }
-      }
-    },
-    "l": {
-      "valeur": "l",
-      "enfants": {
-        "u": {
-          "valeur": "ud",
-          "enfants": {
-            "e": {
-              "valeur": "esinformationaboutprojectgutenbergincludinghowtomakedonationstotheprojectgutenbergliterary$",
-              "enfants": {}
-            },
-            "i": {
-              "valeur": "inghowtomakedonationstotheprojectgutenbergliterary$",
-              "enfants": {}
-            }
-          }
-        },
-        "i": {
-          "valeur": "iterary$",
-          "enfants": {}
-        }
-      }
-    },
-    "u": {
-      "valeur": "u",
-      "enfants": {
-        "d": {
-          "valeur": "d",
-          "enfants": {
-            "e": {
-              "valeur": "esinformationaboutprojectgutenbergincludinghowtomakedonationstotheprojectgutenbergliterary$",
-              "enfants": {}
-            },
-            "i": {
-              "valeur": "inghowtomakedonationstotheprojectgutenbergliterary$",
-              "enfants": {}
-            }
-          }
-        },
-        "t": {
-          "valeur": "t",
-          "enfants": {
-            "p": {
-              "valeur": "projectgutenbergincludinghowtomakedonationstotheprojectgutenbergliterary$",
-              "enfants": {}
-            },
-            "e": {
-              "valeur": "enberg",
-              "enfants": {
-                "i": {
-                  "valeur": "includinghowtomakedonationstotheprojectgutenbergliterary$",
-                  "enfants": {}
-                },
-                "l": {
-                  "valeur": "literary$",
-                  "enfants": {}
-                }
-              }
-            }
-          }
-        }
-      }
-    },
-    "d": {
-      "valeur": "d",
-      "enfants": {
-        "e": {
-          "valeur": "esinformationaboutprojectgutenbergincludinghowtomakedonationstotheprojectgutenbergliterary$",
-          "enfants": {}
-        },
-        "i": {
-          "valeur": "inghowtomakedonationstotheprojectgutenbergliterary$",
-          "enfants": {}
-        },
-        "o": {
-          "valeur": "onationstotheprojectgutenbergliterary$",
-          "enfants": {}
-        }
-      }
-    },
-    "f": {
-      "valeur": "formationaboutprojectgutenbergincludinghowtomakedonationstotheprojectgutenbergliterary$",
-      "enfants": {}
-    },
-    "o": {
-      "valeur": "o",
-      "enfants": {
-        "r": {
-          "valeur": "rmationaboutprojectgutenbergincludinghowtomakedonationstotheprojectgutenbergliterary$",
-          "enfants": {}
-        },
-        "n": {
-          "valeur": "n",
-          "enfants": {
-            "a": {
-              "valeur": "a",
-              "enfants": {
-                "b": {
-                  "valeur": "boutprojectgutenbergincludinghowtomakedonationstotheprojectgutenbergliterary$",
-                  "enfants": {}
-                },
-                "t": {
-                  "valeur": "tionstotheprojectgutenbergliterary$",
-                  "enfants": {}
-                }
-              }
-            },
-            "s": {
-              "valeur": "stotheprojectgutenbergliterary$",
-              "enfants": {}
-            }
-          }
-        },
-        "u": {
-          "valeur": "utprojectgutenbergincludinghowtomakedonationstotheprojectgutenbergliterary$",
-          "enfants": {}
-        },
-        "j": {
-          "valeur": "jectgutenberg",
-          "enfants": {
-            "i": {
-              "valeur": "includinghowtomakedonationstotheprojectgutenbergliterary$",
-              "enfants": {}
-            },
-            "l": {
-              "valeur": "literary$",
-              "enfants": {}
-            }
-          }
-        },
-        "w": {
-          "valeur": "wtomakedonationstotheprojectgutenbergliterary$",
-          "enfants": {}
-        },
-        "m": {
-          "valeur": "makedonationstotheprojectgutenbergliterary$",
-          "enfants": {}
-        },
-        "t": {
-          "valeur": "theprojectgutenbergliterary$",
-          "enfants": {}
-        }
-      }
-    },
-    "r": {
-      "valeur": "r",
-      "enfants": {
-        "m": {
-          "valeur": "mationaboutprojectgutenbergincludinghowtomakedonationstotheprojectgutenbergliterary$",
-          "enfants": {}
-        },
-        "o": {
-          "valeur": "ojectgutenberg",
-          "enfants": {
-            "i": {
-              "valeur": "includinghowtomakedonationstotheprojectgutenbergliterary$",
-              "enfants": {}
-            },
-            "l": {
-              "valeur": "literary$",
-              "enfants": {}
-            }
-          }
-        },
-        "g": {
-          "valeur": "g",
-          "enfants": {
-            "i": {
-              "valeur": "includinghowtomakedonationstotheprojectgutenbergliterary$",
-              "enfants": {}
-            },
-            "l": {
-              "valeur": "literary$",
-              "enfants": {}
-            }
-          }
-        },
-        "a": {
-          "valeur": "ary$",
-          "enfants": {}
-        },
-        "y": {
-          "valeur": "y$",
-          "enfants": {}
-        }
-      }
-    },
-    "m": {
-      "valeur": "ma",
-      "enfants": {
-        "t": {
-          "valeur": "tionaboutprojectgutenbergincludinghowtomakedonationstotheprojectgutenbergliterary$",
-          "enfants": {}
-        },
-        "k": {
-          "valeur": "kedonationstotheprojectgutenbergliterary$",
-          "enfants": {}
-        }
-      }
-    },
-    "a": {
-      "valeur": "a",
-      "enfants": {
-        "t": {
-          "valeur": "tion",
-          "enfants": {
-            "a": {
-              "valeur": "aboutprojectgutenbergincludinghowtomakedonationstotheprojectgutenbergliterary$",
-              "enfants": {}
-            },
-            "s": {
-              "valeur": "stotheprojectgutenbergliterary$",
-              "enfants": {}
-            }
-          }
-        },
-        "b": {
-          "valeur": "boutprojectgutenbergincludinghowtomakedonationstotheprojectgutenbergliterary$",
-          "enfants": {}
-        },
-        "k": {
-          "valeur": "kedonationstotheprojectgutenbergliterary$",
-          "enfants": {}
-        },
-        "r": {
-          "valeur": "ry$",
-          "enfants": {}
-        }
-      }
-    },
-    "p": {
-      "valeur": "projectgutenberg",
-      "enfants": {
-        "i": {
-          "valeur": "includinghowtomakedonationstotheprojectgutenbergliterary$",
-          "enfants": {}
-        },
-        "l": {
-          "valeur": "literary$",
-          "enfants": {}
-        }
-      }
-    },
-    "j": {
-      "valeur": "jectgutenberg",
-      "enfants": {
-        "i": {
-          "valeur": "includinghowtomakedonationstotheprojectgutenbergliterary$",
-          "enfants": {}
-        },
-        "l": {
-          "valeur": "literary$",
-          "enfants": {}
-        }
-      }
-    },
-    "g": {
-      "valeur": "g",
-      "enfants": {
-        "u": {
-          "valeur": "utenberg",
-          "enfants": {
-            "i": {
-              "valeur": "includinghowtomakedonationstotheprojectgutenbergliterary$",
-              "enfants": {}
-            },
-            "l": {
-              "valeur": "literary$",
-              "enfants": {}
-            }
-          }
-        },
-        "i": {
-          "valeur": "includinghowtomakedonationstotheprojectgutenbergliterary$",
-          "enfants": {}
-        },
-        "h": {
-          "valeur": "howtomakedonationstotheprojectgutenbergliterary$",
-          "enfants": {}
-        },
-        "l": {
-          "valeur": "literary$",
-          "enfants": {}
-        }
-      }
-    },
-    "k": {
-      "valeur": "kedonationstotheprojectgutenbergliterary$",
-      "enfants": {}
-    },
-    "y": {
-      "valeur": "y$",
-      "enfants": {}
-    },
-    "$": {
-      "valeur": "$",
-      "enfants": {}
-    }
-  }
-}
+[
+ "",
+ {
+  "t": [
+   "t",
+   {
+    "h": [
+     "h",
+     {
+      "i": "iswebsiteincludesinformationaboutprojectgutenbergincludinghowtomakedonationstotheprojectgutenbergliterary$",
+      "e": "eprojectgutenbergliterary$"
+     }
+    ],
+    "e": [
+     "e",
+     {
+      "i": "includesinformationaboutprojectgutenbergincludinghowtomakedonationstotheprojectgutenbergliterary$",
+      "n": [
+       "nberg",
+       {
+        "i": "includinghowtomakedonationstotheprojectgutenbergliterary$",
+        "l": "literary$"
+       }
+      ],
+      "r": "rary$"
+     }
+    ],
+    "i": [
+     "ion",
+     {
+      "a": "aboutprojectgutenbergincludinghowtomakedonationstotheprojectgutenbergliterary$",
+      "s": "stotheprojectgutenbergliterary$"
+     }
+    ],
+    "p": "projectgutenbergincludinghowtomakedonationstotheprojectgutenbergliterary$",
+    "g": [
+     "gutenberg",
+     {
+      "i": "includinghowtomakedonationstotheprojectgutenbergliterary$",
+      "l": "literary$"
+     }
+    ],
+    "o": [
+     "o",
+     {
+      "m": "makedonationstotheprojectgutenbergliterary$",
+      "t": "theprojectgutenbergliterary$"
+     }
+    ]
+   }
+  ],
+  "h": [
+   "h",
+   {
+    "i": "iswebsiteincludesinformationaboutprojectgutenbergincludinghowtomakedonationstotheprojectgutenbergliterary$",
+    "o": "owtomakedonationstotheprojectgutenbergliterary$",
+    "e": "eprojectgutenbergliterary$"
+   }
+  ],
+  "i": [
+   "i",
+   {
+    "s": "swebsiteincludesinformationaboutprojectgutenbergincludinghowtomakedonationstotheprojectgutenbergliterary$",
+    "t": [
+     "te",
+     {
+      "i": "includesinformationaboutprojectgutenbergincludinghowtomakedonationstotheprojectgutenbergliterary$",
+      "r": "rary$"
+     }
+    ],
+    "n": [
+     "n",
+     {
+      "c": [
+       "clud",
+       {
+        "e": "esinformationaboutprojectgutenbergincludinghowtomakedonationstotheprojectgutenbergliterary$",
+        "i": "inghowtomakedonationstotheprojectgutenbergliterary$"
+       }
+      ],
+      "f": "formationaboutprojectgutenbergincludinghowtomakedonationstotheprojectgutenbergliterary$",
+      "g": "ghowtomakedonationstotheprojectgutenbergliterary$"
+     }
+    ],
+    "o": [
+     "on",
+     {
+      "a": "aboutprojectgutenbergincludinghowtomakedonationstotheprojectgutenbergliterary$",
+      "s": "stotheprojectgutenbergliterary$"
+     }
+    ]
+   }
+  ],
+  "s": [
+   "s",
+   {
+    "w": "websiteincludesinformationaboutprojectgutenbergincludinghowtomakedonationstotheprojectgutenbergliterary$",
+    "i": [
+     "i",
+     {
+      "t": "teincludesinformationaboutprojectgutenbergincludinghowtomakedonationstotheprojectgutenbergliterary$",
+      "n": "nformationaboutprojectgutenbergincludinghowtomakedonationstotheprojectgutenbergliterary$"
+     }
+    ],
+    "t": "totheprojectgutenbergliterary$"
+   }
+  ],
+  "w": [
+   "w",
+   {
+    "e": "ebsiteincludesinformationaboutprojectgutenbergincludinghowtomakedonationstotheprojectgutenbergliterary$",
+    "t": "tomakedonationstotheprojectgutenbergliterary$"
+   }
+  ],
+  "e": [
+   "e",
+   {
+    "b": "bsiteincludesinformationaboutprojectgutenbergincludinghowtomakedonationstotheprojectgutenbergliterary$",
+    "i": "includesinformationaboutprojectgutenbergincludinghowtomakedonationstotheprojectgutenbergliterary$",
+    "s": "sinformationaboutprojectgutenbergincludinghowtomakedonationstotheprojectgutenbergliterary$",
+    "c": [
+     "ctgutenberg",
+     {
+      "i": "includinghowtomakedonationstotheprojectgutenbergliterary$",
+      "l": "literary$"
+     }
+    ],
+    "n": [
+     "nberg",
+     {
+      "i": "includinghowtomakedonationstotheprojectgutenbergliterary$",
+      "l": "literary$"
+     }
+    ],
+    "r": [
+     "r",
+     {
+      "g": [
+       "g",
+       {
+        "i": "includinghowtomakedonationstotheprojectgutenbergliterary$",
+        "l": "literary$"
+       }
+      ],
+      "a": "ary$"
+     }
+    ],
+    "d": "donationstotheprojectgutenbergliterary$",
+    "p": "projectgutenbergliterary$"
+   }
+  ],
+  "b": [
+   "b",
+   {
+    "s": "siteincludesinformationaboutprojectgutenbergincludinghowtomakedonationstotheprojectgutenbergliterary$",
+    "o": "outprojectgutenbergincludinghowtomakedonationstotheprojectgutenbergliterary$",
+    "e": [
+     "erg",
+     {
+      "i": "includinghowtomakedonationstotheprojectgutenbergliterary$",
+      "l": "literary$"
+     }
+    ]
+   }
+  ],
+  "n": [
+   "n",
+   {
+    "c": [
+     "clud",
+     {
+      "e": "esinformationaboutprojectgutenbergincludinghowtomakedonationstotheprojectgutenbergliterary$",
+      "i": "inghowtomakedonationstotheprojectgutenbergliterary$"
+     }
+    ],
+    "f": "formationaboutprojectgutenbergincludinghowtomakedonationstotheprojectgutenbergliterary$",
+    "a": [
+     "a",
+     {
+      "b": "boutprojectgutenbergincludinghowtomakedonationstotheprojectgutenbergliterary$",
+      "t": "tionstotheprojectgutenbergliterary$"
+     }
+    ],
+    "b": [
+     "berg",
+     {
+      "i": "includinghowtomakedonationstotheprojectgutenbergliterary$",
+      "l": "literary$"
+     }
+    ],
+    "g": "ghowtomakedonationstotheprojectgutenbergliterary$",
+    "s": "stotheprojectgutenbergliterary$"
+   }
+  ],
+  "c": [
+   "c",
+   {
+    "l": [
+     "lud",
+     {
+      "e": "esinformationaboutprojectgutenbergincludinghowtomakedonationstotheprojectgutenbergliterary$",
+      "i": "inghowtomakedonationstotheprojectgutenbergliterary$"
+     }
+    ],
+    "t": [
+     "tgutenberg",
+     {
+      "i": "includinghowtomakedonationstotheprojectgutenbergliterary$",
+      "l": "literary$"
+     }
+    ]
+   }
+  ],
+  "l": [
+   "l",
+   {
+    "u": [
+     "ud",
+     {
+      "e": "esinformationaboutprojectgutenbergincludinghowtomakedonationstotheprojectgutenbergliterary$",
+      "i": "inghowtomakedonationstotheprojectgutenbergliterary$"
+     }
+    ],
+    "i": "iterary$"
+   }
+  ],
+  "u": [
+   "u",
+   {
+    "d": [
+     "d",
+     {
+      "e": "esinformationaboutprojectgutenbergincludinghowtomakedonationstotheprojectgutenbergliterary$",
+      "i": "inghowtomakedonationstotheprojectgutenbergliterary$"
+     }
+    ],
+    "t": [
+     "t",
+     {
+      "p": "projectgutenbergincludinghowtomakedonationstotheprojectgutenbergliterary$",
+      "e": [
+       "enberg",
+       {
+        "i": "includinghowtomakedonationstotheprojectgutenbergliterary$",
+        "l": "literary$"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "d": [
+   "d",
+   {
+    "e": "esinformationaboutprojectgutenbergincludinghowtomakedonationstotheprojectgutenbergliterary$",
+    "i": "inghowtomakedonationstotheprojectgutenbergliterary$",
+    "o": "onationstotheprojectgutenbergliterary$"
+   }
+  ],
+  "f": "formationaboutprojectgutenbergincludinghowtomakedonationstotheprojectgutenbergliterary$",
+  "o": [
+   "o",
+   {
+    "r": "rmationaboutprojectgutenbergincludinghowtomakedonationstotheprojectgutenbergliterary$",
+    "n": [
+     "n",
+     {
+      "a": [
+       "a",
+       {
+        "b": "boutprojectgutenbergincludinghowtomakedonationstotheprojectgutenbergliterary$",
+        "t": "tionstotheprojectgutenbergliterary$"
+       }
+      ],
+      "s": "stotheprojectgutenbergliterary$"
+     }
+    ],
+    "u": "utprojectgutenbergincludinghowtomakedonationstotheprojectgutenbergliterary$",
+    "j": [
+     "jectgutenberg",
+     {
+      "i": "includinghowtomakedonationstotheprojectgutenbergliterary$",
+      "l": "literary$"
+     }
+    ],
+    "w": "wtomakedonationstotheprojectgutenbergliterary$",
+    "m": "makedonationstotheprojectgutenbergliterary$",
+    "t": "theprojectgutenbergliterary$"
+   }
+  ],
+  "r": [
+   "r",
+   {
+    "m": "mationaboutprojectgutenbergincludinghowtomakedonationstotheprojectgutenbergliterary$",
+    "o": [
+     "ojectgutenberg",
+     {
+      "i": "includinghowtomakedonationstotheprojectgutenbergliterary$",
+      "l": "literary$"
+     }
+    ],
+    "g": [
+     "g",
+     {
+      "i": "includinghowtomakedonationstotheprojectgutenbergliterary$",
+      "l": "literary$"
+     }
+    ],
+    "a": "ary$",
+    "y": "y$"
+   }
+  ],
+  "m": [
+   "ma",
+   {
+    "t": "tionaboutprojectgutenbergincludinghowtomakedonationstotheprojectgutenbergliterary$",
+    "k": "kedonationstotheprojectgutenbergliterary$"
+   }
+  ],
+  "a": [
+   "a",
+   {
+    "t": [
+     "tion",
+     {
+      "a": "aboutprojectgutenbergincludinghowtomakedonationstotheprojectgutenbergliterary$",
+      "s": "stotheprojectgutenbergliterary$"
+     }
+    ],
+    "b": "boutprojectgutenbergincludinghowtomakedonationstotheprojectgutenbergliterary$",
+    "k": "kedonationstotheprojectgutenbergliterary$",
+    "r": "ry$"
+   }
+  ],
+  "p": [
+   "projectgutenberg",
+   {
+    "i": "includinghowtomakedonationstotheprojectgutenbergliterary$",
+    "l": "literary$"
+   }
+  ],
+  "j": [
+   "jectgutenberg",
+   {
+    "i": "includinghowtomakedonationstotheprojectgutenbergliterary$",
+    "l": "literary$"
+   }
+  ],
+  "g": [
+   "g",
+   {
+    "u": [
+     "utenberg",
+     {
+      "i": "includinghowtomakedonationstotheprojectgutenbergliterary$",
+      "l": "literary$"
+     }
+    ],
+    "i": "includinghowtomakedonationstotheprojectgutenbergliterary$",
+    "h": "howtomakedonationstotheprojectgutenbergliterary$",
+    "l": "literary$"
+   }
+  ],
+  "k": "kedonationstotheprojectgutenbergliterary$",
+  "y": "y$",
+  "$": "$"
+ }
+]
