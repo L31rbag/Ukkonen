@@ -108,7 +108,7 @@ class ArbreSuffixes:
         return json.dumps(self.racine.to_dict(), indent=1)
 
 if __name__ == "__main__":
-    with open("miserables_very_short.txt", "r", encoding="utf-8") as fichier:
+    with open("miserables_moyen.txt", "r", encoding="utf-8") as fichier:
         texte_brut = fichier.read()
     
  
@@ -126,7 +126,7 @@ if __name__ == "__main__":
         arbre_json = json.load(f)
 
    
-    print(arbre.contient_suffixe("theprojectgutenbergliterary$"))
+  
 
     
 

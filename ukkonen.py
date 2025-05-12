@@ -13,8 +13,8 @@ class Noeud:
       
         edge_label = text[self.start:self.end+1] if self.start != -1 else ""
         result = {
-            "edge": edge_label,
-            "suffix_index": self.index
+            "e": edge_label,
+            "s_i": self.index
         }
         
         if self.children:
@@ -136,7 +136,7 @@ class ArbreSuffixes:
 
 
 def main():
-    with open("miserables.txt", "r", encoding="utf-8") as fichier:
+    with open("miserables_moyen.txt", "r", encoding="utf-8") as fichier:
         texte_brut = fichier.read()
         arbre = ArbreSuffixes(texte_brut)
         print("Temps de construction de l'arbre:", arbre.temps_construction, "secondes")
